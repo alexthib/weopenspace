@@ -1,0 +1,27 @@
+.nav-main {
+	background-color: #fff;
+}
+
+.nav-main a {
+	color: #000;
+}
+
+/* Make the image fully responsive */
+/*.carousel-inner img {
+	width: 100%;
+	height: 100%;
+}*/
+.carousel {
+	max-width: 800px;
+	margin: auto;
+}
+
+/*
+.carousel-indicator {
+	color: #fd7e14;
+}*/
+
+@media (max-width: 576px) {
+  .container {
+	max-width: 100%;
+}

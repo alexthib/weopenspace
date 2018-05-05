@@ -96,7 +96,6 @@ pagination:
 
 ############################### Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
 
 plugins:
   - jekyll-paginate-v2
