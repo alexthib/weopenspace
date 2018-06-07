@@ -4,3 +4,6 @@ _site/
 .jekyll-metadata
 .DS_Store
 .gitignore.swp
+*.sublime-project
+*.sublime-workspace
+
