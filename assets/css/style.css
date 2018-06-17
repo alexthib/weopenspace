@@ -11,9 +11,14 @@
 	width: 100%;
 	height: 100%;
 }*/
-.carousel {
+.centered {
 	max-width: 800px;
 	margin: auto;
+}
+
+div#explications {
+    text-align: justify;
+    padding: 20px;
 }
 
 /*
