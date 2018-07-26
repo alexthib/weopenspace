@@ -6,6 +6,10 @@
 	color: #000;
 }
 
+.fill {
+	height: 20px;
+}
+
 /* Make the image fully responsive */
 /*.carousel-inner img {
 	width: 100%;
