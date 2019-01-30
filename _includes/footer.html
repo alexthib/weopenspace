@@ -1,0 +1,34 @@
+
+    </section>
+
+  	<footer>
+  	    <p>
+  	    	{{ site.description }}
+  	    </p>
+  	    <p class="view">
+          <a href="http://enjoyagile.com/slack/" target="_enjoyagile_slack">
+               Slack
+          </a>
+          <!--
+          &nbsp;|&nbsp;
+          <a href="http://enjoyagile.com/feed.xml" target="_rss">
+               rss
+          </a>
+          -->
+          &nbsp;|&nbsp;
+          <a href="/tweeter">
+               tweeter
+          </a>                    
+        </p>
+  	    <p class="copyright">
+        	Copyright 2019 We Open Space by beNext
+        </p>
+    </footer>
+
+ 	{% if jekyll.environment == 'production' %}
+    	{% include analytics.html %}
+    {% endif %}
+
+  </body>
+
+</html>

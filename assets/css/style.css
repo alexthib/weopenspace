@@ -1,3 +1,19 @@
+
+section {
+	margin: 0px auto;
+	max-width: 980px;
+	position: relative;
+	padding: 20px;
+	text-align: justify;
+}
+
+h1 {
+	font-size: 2em;
+	color: #939393;
+	line-height: 1.15em;
+	margin: 20px 0 ;
+}
+
 .nav-main {
 	background-color: #fff;
 }
@@ -25,6 +41,18 @@ div#explications {
 div#philosophie {
     text-align: justify;
     padding: 20px;
+}
+
+footer {
+	font-size: 0.85em;
+	width: 100%;
+	text-align: center;
+	border-top: 2px solid #ffc107;
+	padding-top: 10px;
+}
+
+footer .copyright {
+	font-size: 0.9em;
 }
 
 @media (max-width: 576px) {
