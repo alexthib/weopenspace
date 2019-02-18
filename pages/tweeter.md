@@ -1,7 +1,7 @@
 ---
 layout: default
-title: We Open Space sur Tweeter
-permalink: /tweeter/
+title: We Open Space sur Twitter
+permalink: /twitter/
 ---
 
 <div id="tweets_wos" class="centered">
