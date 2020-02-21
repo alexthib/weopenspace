@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: We Open Space sur Twitter
