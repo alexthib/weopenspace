@@ -17,7 +17,7 @@ title: We Open Space
 email: alexthib@gmail.com
 description: > 
   We Open Space est inspiré de mes expériences à l'Agile Open France et de l'Open Space Agility (Daniel Mezick)
-url: "http://weopenspace.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://alexthib.github.io/weopenspace/" # the base hostname & protocol for your site, e.g. http://example.com
 
 ############################### Handling Reading
 encoding: UTF-8
